@@ -1,0 +1,15 @@
+#g00gle{
+    color: red;
+    font-style: oblique;
+    font-weight: bold;
+}
+.home-footer{
+    color: black;
+    font-weight: bolder;
+}
+body{
+    background-image: url(doratheexplore.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
